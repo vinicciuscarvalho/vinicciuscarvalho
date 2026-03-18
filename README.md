@@ -1,16 +1,112 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Vinicius Carvalho</h1>
+<h3 align="center">🚀 Fullstack Developer | Freelance & SaaS Focus</h3>
 
-<!--
-**vinicciuscarvalho/vinicciuscarvalho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 💡 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+				- 🎓 Studying **Java** at university  
+				- 💻 Focused on **Fullstack Development**  
+				- 🚀 Building **websites, landing pages, and SaaS applications**  
+				- 🔌 Working with **APIs & REST APIs**  
+
+- 🎓 Currently delving deeper into becoming a developer
+- 🚀 Focused on building real-world projects  
+- 📚 Always learning and improving my skills  
+- 💡 Interested in technology, problem-solving, and innovation  
+- 💼 Open for **freelance opportunities**  
+
+---
+
+## ⚡ Tech Stack
+
+### 🖥️ Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,html,css" />
+</p>
+
+### 🔧 Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,java" />
+</p>
+
+### 🗄️ Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+</p>
+
+### ⚙️ DevOps & Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,git,github,vscode" />
+</p>
+
+---
+
+## 💼 Services I Offer
+
+- 🌐 Landing Pages (fast & responsive)
+- 🧩 Fullstack Web Applications
+- 🔌 API & REST API Development
+- 🗄️ Database Design (SQL & NoSQL)
+- ⚡ Performance & Optimization
+
+---
+
+## 🚀 Featured Projects
+
+- 🔹 **SaaS Dashboard**  
+  Fullstack app with authentication, API integration, and dashboard UI  
+
+- 🔹 **Landing Page for Business**  
+  High-converting responsive landing page  
+
+- 🔹 **REST API Backend**  
+  Scalable API with Node.js + database integration  
+
+---
+
+## 📡 API Experience
+
+- RESTful API development  
+- Authentication (JWT)  
+- CRUD operations  
+- External API integrations  
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+  <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
+</p>
+
+---
+
+## 🎯 Goals
+
+- 💼 Work as a **freelancer developer**
+- 🚀 Launch my own **SaaS products**
+- 📚 Master **TypeScript & scalable architecture**
+- 🌍 Work with international clients  
+
+---
+
+## 🌎 Contact Me
+
+- 📧 Email: your@email.com  
+- 💼 LinkedIn: https://linkedin.com/in/yourprofile  
+
+---
+
+## 💬 Mindset
+
+> "Build solutions that solve real problems."
+
+---
+
+## 👀 Profile Views
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20views&color=0e75b6&style=flat" />
+</p>
