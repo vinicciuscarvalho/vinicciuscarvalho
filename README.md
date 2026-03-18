@@ -47,28 +47,6 @@
 
 ---
 
-## 🚀 Featured Projects
-
-- 🔹 **SaaS Dashboard**  
-  Fullstack app with authentication, API integration, and dashboard UI  
-
-- 🔹 **Landing Page for Business**  
-  High-converting responsive landing page  
-
-- 🔹 **REST API Backend**  
-  Scalable API with Node.js + database integration  
-
----
-
-## 📡 API Experience
-
-- RESTful API development  
-- Authentication (JWT)  
-- CRUD operations  
-- External API integrations  
-
----
-
 ## 📈 GitHub Stats
 
 <p align="center">
@@ -89,7 +67,7 @@
 
 ## 🌎 Contact Me
 
-- 📧 Email: your@email.com  
+- 📧 Email: carvalho.viniciusnz@gmail.com  
 - 💼 LinkedIn: https://linkedin.com/in/yourprofile  
 
 ---
