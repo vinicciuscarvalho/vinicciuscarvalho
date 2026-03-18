@@ -5,11 +5,6 @@
 
 ## 💡 About Me
 
-				- 🎓 Studying **Java** at university  
-				- 💻 Focused on **Fullstack Development**  
-				- 🚀 Building **websites, landing pages, and SaaS applications**  
-				- 🔌 Working with **APIs & REST APIs**  
-
 - 🎓 Currently delving deeper into becoming a developer
 - 🚀 Focused on building real-world projects  
 - 📚 Always learning and improving my skills  
