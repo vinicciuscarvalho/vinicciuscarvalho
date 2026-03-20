@@ -50,8 +50,8 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
-  <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=vinicciuscarvalho&show_icons=true&theme=tokyonight" />
+  <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=vinicciuscarvalho&theme=tokyonight" />
 </p>
 
 ---
@@ -81,5 +81,5 @@
 ## 👀 Profile Views
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20views&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=vinicciuscarvalho&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
