@@ -68,7 +68,7 @@
 ## 🌎 Contact Me
 
 - 📧 Email: carvalho.viniciusnz@gmail.com  
-- 💼 LinkedIn: https://linkedin.com/in/yourprofile  
+- 💼 LinkedIn: [https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/viniccius-carvalho/)  
 
 ---
 
