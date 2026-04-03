@@ -11,8 +11,8 @@
   <a href="https://instagram.com/vinniccius.carvalho">
     <img src="https://img.shields.io/badge/Instagram-@VINNICCIUS.CARVALHO-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <a href="https://mail.google.com/mail/u/0/">
+    <img src="https://img.shields.io/badge/Email-carvalho.viniciusnz@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
