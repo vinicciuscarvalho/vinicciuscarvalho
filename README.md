@@ -2,7 +2,7 @@
 <h3 align="center">🚀 Fullstack Developer | Freelance & SaaS Focus</h3>
 
 &#x1f1e7;&#x1f1f7;
-BRAZIL|BR
+BRAZIL | BR
 
 I'm a fullstack developer focused on building scalable products, SaaS platforms, and high-performance web systems.
 
