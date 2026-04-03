@@ -1,6 +1,12 @@
 <h1 align="center">Hi 👋, I'm Vinicius Carvalho</h1>
 <h3 align="center">🚀 Fullstack Developer | Freelance & SaaS Focus</h3>
+🇧🇷 BRAZIL|BR
+---
+I'm a fullstack developer focused on building scalable products, SaaS platforms, and high-performance web systems.
 
+I work across the stack — from backend architecture to frontend experience — with a strong emphasis on efficiency, clean code, and maintainability.
+
+My approach is driven by business outcomes, delivering solutions that are not only technically robust, but designed to scale and generate real impact.
 ---
 ## 🌐 Where to find me
 
