@@ -2,6 +2,21 @@
 <h3 align="center">🚀 Fullstack Developer | Freelance & SaaS Focus</h3>
 
 ---
+## 🌐 Where to find me
+
+<p align="left">
+  <a href="https://github.com/herbertcarnaubadesouza">
+    <img src="https://img.shields.io/badge/GitHub-HERBERTCARNAUBADESOUZA-181717?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://instagram.com/oreidosites">
+    <img src="https://img.shields.io/badge/Instagram-@OREIDOSITES-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="">
+    <img src="[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seuemail@gmail.com) />
+  </a>
+</p>
+
+---
 
 ## 💡 About Me
 
